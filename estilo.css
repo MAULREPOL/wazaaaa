@@ -1,0 +1,23 @@
+body{
+  background-color:  #7b3790;
+}
+.contenedor {
+  background-color: #ffffff;   /* color interno del cuadro */
+  padding: 20px;               /* espacio interno */
+  border-radius: 12px;         /* esquinas redondeadas */
+  width: 300px;                /* tamaño del cuadro */
+  margin: 20px auto;           /* centrar */
+  box-shadow: 0px 4px 10px rgba(163, 156, 24, 0.75); /* sombra bonita */
+  color: rgba(21, 21, 18, 0.75);
+}
+
+
+button {
+   border: 0;
+    padding: 12px 15px;
+     background: #c5c55488;
+     color: #080909f5; 
+      font-size: 16px; 
+      cursor: pointer;
+       border-radius: 0px 5px 0px;
+}
