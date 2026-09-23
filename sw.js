@@ -2,8 +2,8 @@ const CACHE = 'mi-app-v1';
 const ARCHIVOS = [
   './',
   './index.html',
-  './style.css',
-  './script.js',
+  './estilo.css',
+  './java.js',
   './teto-192.jpg',
   './teto-512.jpg'
 ];
