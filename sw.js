@@ -8,6 +8,7 @@ const ARCHIVOS = [
   './teto-512.jpg'
 ];
 
+
 self.addEventListener('install', (e) => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(ARCHIVOS)));
 });
