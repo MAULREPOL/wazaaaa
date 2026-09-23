@@ -12,6 +12,7 @@
         <h1><I><p>To do list </h1></I></p>
     <script src="java.js"> </script>
 <link rel="stylesheet" href="estilo.css">
+        <link rel="manifest" href="manifest.json">
 <body>
     <h1><I><B>Lista de tareas</B></h1></I>
         <div class="todo-app">
@@ -20,7 +21,11 @@
         </div>
         <div class="contenedor">
         <ol id="listaTareas">
-
+<script> 
+if('serviceWorker' in navigator) {
+    navigator.serviceWorker.regiester('sw.js?);
+                                      }
+</script>
         </ol>  
     </div>
     </center>
