@@ -2,7 +2,7 @@
   "name": "wazaaaa",
   "short_name": "Agenda",
   "description": "Una agenda de tareas para tener tus días mas organizados",
-  "start_url": "https://maulrepol.github.io/wazaaaa/",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#0ea5e9",
